@@ -7,7 +7,6 @@ This project analyzes Titanic passenger survival rates using the **Shiny framewo
 - Dynamic UI with user-controlled filters.
 - Supports multiple plot types: **scatter, histogram, violin, density plots, etc.**
 - Data filtering based on **age range, gender, and class**.
-- Hosted as a **Shiny web application** (coming soon).
 
 ## Dataset
 - **Source:** Titanic dataset (`train.csv`)
