@@ -20,6 +20,8 @@ This project analyzes Titanic passenger survival rates using the **Shiny framewo
    git clone https://github.com/SowmyaHariniDeviKumpatla/Passenger-Survival-Visualization.git
    cd Passenger-Survival-Visualization
 2. Install the required R packages:
+   ```r
    install.packages(c("shiny", "ggplot2", "plotly", "dplyr"))
-3. Run the Shiny app:
-runApp("app.R")
+4. Run the Shiny app:
+   ```r
+   runApp("app.R")
